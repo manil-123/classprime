@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>One</title>
+</head>
+<body>
+<p>Today is the first day of class</p>
+</body>
+</html>
